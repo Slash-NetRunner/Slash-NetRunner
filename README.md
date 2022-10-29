@@ -1,4 +1,4 @@
-- 👋 Hola Soy @Slash-NetRunner (Juan Pablo Bernacki)
+- 👋 Hola Soy @Juan Pablo Bernacki (Slash-NetRunner)
 - 👀 Estoy Dando mis primeros pasos en la programacion WEB.
 - 🌱 Actualmente estoy Aprendiendo HTML y CSS, junto a git y gitHUB
 - 💞️ Me gustaria seguir desarrolandome profesionalmente en esta area de la programacion.-
